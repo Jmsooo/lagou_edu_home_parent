@@ -186,8 +186,6 @@
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-core</artifactId>
             <version>2.9.8</version>
-            ② 子工程ssm_utils构建
-            ③ 子工程ssm_domain构建
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
